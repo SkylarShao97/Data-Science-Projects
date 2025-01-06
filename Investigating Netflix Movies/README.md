@@ -86,11 +86,11 @@ This analysis focuses on identifying trends in movie durations over the years, a
 3. Run the Python scripts:  
    - For **Objective 1**:  
      ```bash
-     python Netflix_Movies_Analysis_in_1990s.py
+     python netflix_movies_analysis_in_1990s.py
      ```  
    - For **Objective 2**:  
      ```bash
-     python Movie_Duration_by_Year_of_Release.py
+     python movie_duration_by_year_of_release.py
      ```  
 
 ---
