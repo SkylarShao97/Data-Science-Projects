@@ -32,3 +32,24 @@ The primary goal of this project is to perform exploratory data analysis (EDA) o
 - Initialize a matplotlib figure object called `fig` and create a scatter plot for movie duration by release year using the `colors` list to color the points and using the labels `"Release year"` for the x-axis, `"Duration (min)"` for the y-axis, and the title `"Movie Duration by Year of Release"`.
 - Are we certain that movies are getting shorter?
 
+
+---
+
+## **Setup and Usage**  
+
+### **Requirements**  
+- Python 3.8+  
+
+---
+
+## **Contributors**  
+- **Skylar Shao**  
+  - Email: shaoskylar@gmail.com  
+  - LinkedIn: [Skylar Shao](https://www.linkedin.com/in/zhenghong-shao-b18aa8220/)  
+
+---
+
+## **License**  
+This project is licensed under the MIT License. Feel free to use and modify it for your purposes.  
+
+
