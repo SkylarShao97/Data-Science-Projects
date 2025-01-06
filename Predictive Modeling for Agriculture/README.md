@@ -91,8 +91,8 @@ best_predictive_feature = {"K": 0.85}  # Example score
 ### **How to Run**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/predictive-modeling-agriculture.git
-   cd predictive-modeling-agriculture
+   git clone https://github.com/SkylarShao97/Data-Science-Projects.git
+   cd Data-Science-Projects
    ```  
 2. Place the dataset (`soil_measures.csv`) in the project directory.  
 3. Run the main script:  
