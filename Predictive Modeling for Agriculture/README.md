@@ -97,7 +97,7 @@ best_predictive_feature = {"K": 0.85}  # Example score
 2. Place the dataset (`soil_measures.csv`) in the project directory.  
 3. Run the main script:  
    ```bash
-   python Predictive Modeling for Agriculture.py
+   python predictive_modeling_for_agriculture.py
    ```  
 
 ---
